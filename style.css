@@ -25,6 +25,32 @@ body{
   background-color: rgb(61,61,61);
 }
 
+.responsive-img{
+  display: flex;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 20px;
+  
+}
+
+
 #p1{
   height: 450px;
+}
+
+.modal-content{
+  color: black;
+  border-radius: 20px;
+}
+
+.btn-floating{
+  color: aquamarine;
+}
+
+.social-icon{
+ color: whitesmoke;
+}
+
+.github{
+  color: black;
 }

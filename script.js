@@ -39,3 +39,13 @@ const draw = () => {
 };
 
 setInterval(draw, 50);
+
+// Modal Code
+$(document).ready(function(){
+  $('.modal').modal();
+});
+
+//Fixed Action Button
+$(document).ready(function(){
+  $('.fixed-action-btn').floatingActionButton();
+});
