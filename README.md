@@ -6,9 +6,6 @@ Description
 
 Portfolio page with code for Perry Northcutt
 
-Tasks Completed
-
-This portfolio project also links with coursework and projects completed in my SMU bootcamp course.
 
 Installation
 
